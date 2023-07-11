@@ -1,0 +1,15 @@
+C:\Users\lofen\Desktop\insurance\insurance\bin\Debug\net6.0\insurance.exe
+C:\Users\lofen\Desktop\insurance\insurance\bin\Debug\net6.0\insurance.deps.json
+C:\Users\lofen\Desktop\insurance\insurance\bin\Debug\net6.0\insurance.runtimeconfig.json
+C:\Users\lofen\Desktop\insurance\insurance\bin\Debug\net6.0\insurance.dll
+C:\Users\lofen\Desktop\insurance\insurance\bin\Debug\net6.0\insurance.pdb
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.csproj.AssemblyReference.cache
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.AssemblyInfoInputs.cache
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.AssemblyInfo.cs
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.csproj.CoreCompileInputs.cache
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.dll
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\refint\insurance.dll
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.pdb
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\insurance.genruntimeconfig.cache
+C:\Users\lofen\Desktop\insurance\insurance\obj\Debug\net6.0\ref\insurance.dll
