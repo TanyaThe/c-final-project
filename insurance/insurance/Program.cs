@@ -15,8 +15,8 @@ class Program
             Console.WriteLine("\n1 - Vytvorit pojisteneho");
             Console.WriteLine("2 - Zobrazit seznam pojistenych");
             Console.WriteLine("3 - Vyhledat pojisteneho");
-            Console.WriteLine("4 - Ulozit data");
-            Console.WriteLine("5 - Nacíst data");
+            //Console.WriteLine("4 - Ulozit data");  //Ukládá data do souboru pomocí funkce UlozData
+            //Console.WriteLine("5 - Nacíst data"); //Načítá data z existujícího souboru pomocí funkce NactiData
             Console.WriteLine("0 - Konec");
 
             string volba = Console.ReadLine();
@@ -50,7 +50,7 @@ class Program
 
                     aplikace.VyhledejPojisteneho(jmeno, prijmeni);
                     break;
-                case "4":
+                /*case "4":
                     Console.WriteLine("Zadejte nazev souboru pro ulozeni dat:");
                     string nazevUlozit = Console.ReadLine();
                     aplikace.UlozData(nazevUlozit);
@@ -59,7 +59,7 @@ class Program
                     Console.WriteLine("Zadejte nazev souboru pro nacteni dat:");
                     string nazevNacist = Console.ReadLine();
                     aplikace.NactiData(nazevNacist);
-                    break;
+                    break;*/
                 case "0":
                     Console.WriteLine("Aplikace ukoncena.");
                     Environment.Exit(0);
