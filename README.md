@@ -1,4 +1,4 @@
-<<ENG>>
+ENG
 C# Final project for ITnetwork.cz course. 
 
 It obtains these options >
@@ -9,7 +9,7 @@ It obtains these options >
 
 Application is coded using good practices. It uses constructors and ToString() for writing into the console.
 
-<<CZ>>
+CZ
 C# Finální projekt k závěrečné zkoušce.
 
 Projekt obsahuje vše co se píše na https://www.itnetwork.cz/prubeh-zaverecne-zkousky-rekvalifikacnich-kurzu#_projekt-ke-zkousce pod "Projekt ke zkoušce" - "Zadání" - "Evidence pojištění - Zjednodušená verze" - "Konzolová aplikace (C#, Java, Python)"
