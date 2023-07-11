@@ -53,14 +53,14 @@ class Aplikace
         }
     }
 
-    public void UlozData(string nazevSouboru)
+    /*public void UlozData(string nazevSouboru) // Funkce pro ukládání dat pojištěných do json souboru
     {
         string json = JsonSerializer.Serialize(seznamPojisteny);
         File.WriteAllText(nazevSouboru, json);
         Console.WriteLine("Data byla uspesne ulozena.");
     }
 
-    public void NactiData(string nazevSouboru)
+    public void NactiData(string nazevSouboru) // Funkce pro načtení dat pojištěných z json souboru
     {
         if (File.Exists(nazevSouboru))
         {
@@ -72,5 +72,5 @@ class Aplikace
         {
             Console.WriteLine("Soubor s daty neexistuje.");
         }
-    }
+    }*/
 }
