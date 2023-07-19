@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
@@ -53,24 +53,27 @@ class Aplikace
         }
     }
 
-    /*public void UlozData(string nazevSouboru) // Funkce pro ukládání dat pojištěných do json souboru
+    public void UlozData(string nazevSouboru)
     {
         string json = JsonSerializer.Serialize(seznamPojisteny);
-        File.WriteAllText(nazevSouboru, json);
+        string cesta = nazevSouboru + ".json";
+        File.WriteAllText(cesta, json);
         Console.WriteLine("Data byla uspesne ulozena.");
     }
 
-    public void NactiData(string nazevSouboru) // Funkce pro načtení dat pojištěných z json souboru
+    public void NactiData(string nazevSouboru)
     {
-        if (File.Exists(nazevSouboru))
+        string cesta = nazevSouboru + ".json";
+        if (File.Exists(cesta))
         {
-            string json = File.ReadAllText(nazevSouboru);
+            string json = File.ReadAllText(cesta);
             seznamPojisteny = JsonSerializer.Deserialize<List<Pojisteny>>(json);
-            Console.WriteLine("Data byla uspesne nactena.");
+            Console.WriteLine("Data byla úspěšně načtena.");
         }
         else
         {
             Console.WriteLine("Soubor s daty neexistuje.");
         }
-    }*/
+    }
+
 }
